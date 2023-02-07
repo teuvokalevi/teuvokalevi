@@ -1,5 +1,5 @@
 # About me:
-I am 18 years old FiveM developer from Finland.<br>Currently working on Finnish FiveM server Femma.
+FiveM developer from Finland.<br>Currently working on Finnish FiveM server Femma.
 
 
 ## 🌐 Socials:
